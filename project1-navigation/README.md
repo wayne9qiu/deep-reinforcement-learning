@@ -18,7 +18,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
-The project report [report.pdf]() describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
+The project report [report.pdf](https://github.com/wayne9qiu/deep-reinforcement-learning/blob/master/project1-navigation/report.pdf) describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
 
 ### Dependencies
 
